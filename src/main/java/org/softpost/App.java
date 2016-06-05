@@ -15,9 +15,15 @@ public class App
 
     private static void print1(){
         System.out.println( "Print" );
+        for(int i=1;i<10;i++){
+            System.out.println(i);
+        }
     }
 
     private static void print2(){
         System.out.println( "Print" );
+        for(int i=1;i<10;i++){
+            System.out.println(i);
+        }
     }
 }
