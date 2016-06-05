@@ -6,6 +6,8 @@ package org.softpost;
  */
 public class App 
 {
+    String Name;
+    int ID;
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
