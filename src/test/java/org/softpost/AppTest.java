@@ -1,5 +1,5 @@
 package org.softpost;
-import java.util.*
+import java.util.*;
 import org.testng.annotations.Test;
 
 /**
